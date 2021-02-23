@@ -1,0 +1,13 @@
+*,
+*::after,
+*::before {
+    box-sizing: border-box;
+}
+
+summary {
+    display: inline;
+}
+
+.section {
+    margin-bottom: 40px;
+}
